@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "scripts": {
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.75.0",
+        "sass-loader": "^12.1.0"
+    },
+    "dependencies": {
+        "axios": "^0.21",
+        "cross-env": "^5.2.1",
+        "datatables.net": "^2.0.4",
+        "jquery": "^3.7.1",
+        "laravel-mix": "^6.0.6",
+        "quill": "^2.0.0",
+        "summernote": "^0.8.20"
+    }
+}

@@ -1,0 +1,193 @@
+.taxi-form-full {
+  padding: 20px 0 20px 0;
+  background: none;
+}
+
+.half-with{
+  max-width: 30% ;
+  height: auto;
+}
+
+.pt-15 {
+  padding-top: 15px !important;
+}
+
+.text-sucess {
+  color: #42A460;
+}
+
+.select2.input{
+  width: 100%;
+  font-size: 15px;
+  display: block;
+  margin: 0 auto;
+  background: #fff;
+  padding: 12px 18px;
+  border: 1px solid #E6E6E6;
+  -webkit-border-radius: 3px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 3px;
+  -moz-background-clip: padding;
+  border-radius: 3px;
+  background-clip: padding-box;
+}
+
+.p-10 {
+  padding: 10px 0px;
+}
+
+a.relative {
+  padding-right: 30px;
+}
+span.relative {
+  padding-right: 30px;
+}
+
+.back-ground{
+  background-color: #FFC61A;
+}
+
+#tariffs .item .h4.m-1{
+  margin: 1px !important;
+}
+
+.mt-2 {
+  margin-top: 2px;
+}
+
+.m-30 {
+  margin: 30px 0 30px 0 !important;
+}
+
+.m-15{
+  margin: 15px 0 15px 0 !important;
+}
+
+.mt-15 {
+  margin-top:15px;
+}
+
+.mb-5{
+  margin: 5px !important;
+}
+
+.mb-15{
+  margin-bottom:15px;
+}
+
+.remove-bg {
+  padding: 30px 0 30px;
+  background: #FFC61A;
+}
+
+#download .mob.logo {
+  background: url("../../images/k2cabs-logo.png")no-repeat 50% 100px;
+  height: 510px;
+}
+
+#download h2{
+  margin-bottom: 0px !important;
+}
+
+.navbar-gray-yellow-transparent .navbar.light {
+  background: rgba(255, 255, 255, 1) !important;
+}
+
+nav.navbar #navbar ul.navbar-nav a.dark
+{
+  color: #000000;
+}
+
+.btn {
+  margin-bottom: 0px !important;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-right {
+  justify-content: flex-end;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.pagination {
+  margin: 0 !important;
+}
+
+.me-1 {
+  margin-right: 1rem !important;
+}
+
+.modal.fade .modal-dialog {
+  transform: translate(0, -50%) !important;
+  top: 50% !important;
+}
+
+.sticky-whatsapp {
+  position: fixed;
+  bottom: 30px;
+  right: 40px;
+  z-index: 1000;
+  transition: transform 0.3s ease;
+}
+
+@media (min-width: 1200px) {
+  #top-bar .btn.pull-right.enquiry{
+    margin-top: -3px;
+  }
+}
+
+.taxi-form-full#homepage-block-1{
+  height: 300px;
+}
+
+a.font-color {
+  color: #000000;
+}
+
+.menu-types a.one-way {
+  background-image: url("../../images/one-way.png");
+}
+
+.menu-types a.round-trip {
+  background-image: url("../../images/round-trip-2.png");
+}
+
+.menu-types a{
+  background-color: #ffff;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.mb-2 {
+  margin-bottom:.8rem!important
+}
+
+.mb-4 {
+  margin-bottom:1.5rem!important
+}
+
+@media (max-width: 765px) {
+  .comment-respond form.form{
+    padding: 1px 10px 10px;
+  }
+
+  .comment-respond form .form-group{
+    margin-bottom: 1px;
+  }
+
+  form#addContactForm {
+    padding: 10px 10px;
+  }
+
+  form#addContactForm .form-group{
+    margin-bottom: 1px;
+  }
+
+}
